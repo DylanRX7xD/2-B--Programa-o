@@ -1,1 +1,17 @@
 
+:root {
+    --violeta  : #64007D;
+    --rosa  : #BF4EC1;
+    --negro  : #000000;
+    --branco : #ffffff;
+    --verde  : #00FF19;
+
+}
+
+.cabecalho {
+    background-color: var(--violeta);
+}
+
+.logo {
+    width: 10%;
+}
