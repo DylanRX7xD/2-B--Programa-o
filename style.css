@@ -8,10 +8,27 @@
 
 }
 
+
+
 .cabecalho {
     background-color: var(--violeta);
+    display: flex;
+    justify-content: space-between;
 }
 
 .logo {
     width: 10%;
 }
+
+.menu-item  {
+    display: inline-block;
+    padding: 20px;
+    color: var(--verde );
+    margin-top: 35px;
+    font-size: 25px;
+    font-size: 34px;
+    font-weight: bold;
+    text-shadow: 2px 3px 10px #ffffff;
+    transition: 1s;
+}
+
