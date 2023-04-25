@@ -37,5 +37,25 @@
 
 .principal{
     background-color: var(--violeta);
-    background-image: linear-gradient(var(--verde),var(--violeta));
+    background-image: linear-gradient(var(--violeta),var(--branco));
+    display: flex;
+    justify-content: center;
+    
+
 }
+
+.principal-titulo
+{
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+   
+   
+
+}
+
+.principal-texto {
+    margin: 450px;
+}
+
+
